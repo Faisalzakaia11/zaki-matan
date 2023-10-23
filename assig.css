@@ -4,7 +4,27 @@
               .h1{
           display: flex;
 }
-.pro1 img{
+.slide img{
     height: 400px;
     width: 300px;
+}
+.slide{
+    display: flex;
+    padding: 20px;
+}
+left-slide{
+    flex-basis: 50%;
+}
+.right-slide{
+    flex-basis: 50%;
+}
+.right-slide img{
+    width: 40%;
+    height: 80%;
+}
+.left-slide h1{
+    font-size: 50px;
+}
+.left-slide h3{
+    font-size: 28px;
 }
