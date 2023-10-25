@@ -1,0 +1,76 @@
+*{
+    background-color: orchid;
+    margin: 0PX;
+    padding: 0PX;
+}
+.header{
+    display: flex;
+    margin: 20px;
+    background-color: yellow;
+}
+.madax{
+    display: flex;
+}
+.logo{
+    flex-basis: 50%;
+    padding: 20px;
+}
+.meno{
+    flex-basis: 50%;
+    padding: 20PX;
+}
+.logo img{
+    width: 100px;
+}
+.meno a{
+    padding-right: 30px;
+    text-decoration: none;
+    font-size: 22px;
+}
+.meno a:hover{
+color: brown;
+}
+.slide{
+    display: flex;
+    padding: 20PX;
+}
+.left-slide{
+    flex-basis: 50%;
+}
+.Right-slide{
+    flex-basis: 50%;
+}
+.
+.Right-slide img{
+    width: 100%;
+}
+.left-slide h1{
+    font-size: 50px;
+}
+.left-slide p{
+    font-size: 28px;
+}
+.jam h1{
+    font-size: 50px;
+}
+.jam h2{
+    font-size: 30px;
+}
+.jam p{
+    font-size: 18px;
+}
+.jam img{
+    margin-left: 700px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.jam{
+    flex-basis: 50%;
+    padding: 20px;
+}
+.rom h1{
+    font-size: 299%;
+}
+.rom h2{
+    font-size: 199%;
+}
